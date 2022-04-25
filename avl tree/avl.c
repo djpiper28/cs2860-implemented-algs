@@ -7,7 +7,7 @@ void rotate_l(tree_node *root)
     /* Rotation (left):
       x            y
     y   c  ->    x   b
-    a   b        a   c
+  a   b        a   c
      */
     int tmp = root->l->payload;
     root->l->payload = root->payload;
