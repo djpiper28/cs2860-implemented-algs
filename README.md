@@ -1,1 +1,1 @@
-# cs2910 implemented algs
+# cs2860 implemented algs
