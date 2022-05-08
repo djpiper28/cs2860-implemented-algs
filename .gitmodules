@@ -1,0 +1,6 @@
+[submodule "Kruskals (in a maze generator)"]
+	path = Kruskals (in a maze generator)
+	url = git@github.com:djpiper28/ANSI-C-Maze-Generator.git
+[submodule "Double linked list (OS module cw lmao)"]
+	path = Double linked list (OS module cw lmao)
+	url = git@github.com:djpiper28/OS-Module-Coursework.git
